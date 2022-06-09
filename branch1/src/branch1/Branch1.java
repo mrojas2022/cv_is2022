@@ -18,7 +18,7 @@ public class Branch1 {
         System.out.println("version 0");
         System.out.println("Versión 1");
         System.out.println("version wmrc");
-        System.out.println("version wmrc1");
+        System.out.println("version wmrc 1");
         System.out.println("versión 5");
     }
     
